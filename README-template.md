@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/EniThesage/qr-code-component-main
 - Live Site URL: 
 
 ## My process
@@ -54,13 +54,10 @@ I also practiced using opacity to create visual hierarchy between the heading an
 ## Author
 
 - Website - [Asike Sandra](https://www.linkedin.com/in/sandra-asike-43804036a)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@EniThesage](https://www.frontendmentor.io/profile/EniThesage)
+- Twitter - [@shandeerah](https://www.twitter.com/shandeerah)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+My heartfelt thanks goes to SheCodes, Matt Delac and HerTechTrail Academy, for prior knowledge and of course to Frontend Mentor for this opportunity. 
