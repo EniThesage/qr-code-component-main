@@ -1,7 +1,9 @@
+#flex {
+    display: flex;
+}
 body {
  background: #D5E1EF;
  font-family: 'outfit', sans-serif;
- display: flex;
  min-height: 100vh;
 }
 
