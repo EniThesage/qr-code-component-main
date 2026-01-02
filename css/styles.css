@@ -1,0 +1,49 @@
+body {
+ background: #D5E1EF;
+ font-family: 'outfit', sans-serif;
+ margin: 150px;
+}
+
+.image-card {
+    background: #FFFFFF;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    display: block;
+    border-radius: 20px;
+}
+
+div.text {
+    margin: 30px 20px 30px 20px;
+    text-align: center;
+}
+
+h3.first-paragraph {
+    font-size: 26px;
+    font-weight: 600;
+    opacity: 0.7;
+}
+
+.paragraph {
+    font-size: 19px;
+    line-height: 1.5;
+    font-weight: 400;
+    opacity: 0.5;
+}
+
+.attribution {
+margin-top: 70px;
+font-weight: 500;
+}
+
+.attribution a {
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+}
