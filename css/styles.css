@@ -1,12 +1,14 @@
 body {
  background: #D5E1EF;
  font-family: 'outfit', sans-serif;
- margin: 150px;
+ display: flex;
+ min-height: 100vh;
 }
 
 .image-card {
     background: #FFFFFF;
     max-width: 400px;
+    width: 100%;
     margin: 0 auto;
     padding: 15px;
     border-radius: 30px;
