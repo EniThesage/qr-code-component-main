@@ -1,4 +1,4 @@
-#flex {
+main.flex {
     display: flex;
 }
 
@@ -6,7 +6,9 @@ body {
  background: #D5E1EF;
  font-family: 'outfit', sans-serif;
  min-height: 100vh;
- margin: 100px 50px 100px 50px;
+ margin: 0;
+ padding: 2rem 1rem;
+ display: grid;
 }
 
 .image-card {
@@ -30,17 +32,17 @@ div.text {
     text-align: center;
 }
 
-h3.first-paragraph {
+h1.first-paragraph {
     font-size: 26px;
-    font-weight: 600;
-    opacity: 0.7;
+    font-weight: 700;
+    color: #182844;
 }
 
 .paragraph {
-    font-size: 19px;
+    font-size: 15px;
     line-height: 1.5;
     font-weight: 400;
-    opacity: 0.5;
+    color: #8B9097;
 }
 
 .attribution {
