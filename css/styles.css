@@ -2,14 +2,13 @@
 body {
  background: #D5E1EF;
  font-family: 'outfit', sans-serif;
- min-height: 100vh;
  margin: 0;
  padding: 2rem 1rem;
  display: grid;
  place-items: center;
 }
 
-article.image-card {
+div.image-card {
     background: #FFFFFF;
     max-width: 25rem;
     width: 100%;
